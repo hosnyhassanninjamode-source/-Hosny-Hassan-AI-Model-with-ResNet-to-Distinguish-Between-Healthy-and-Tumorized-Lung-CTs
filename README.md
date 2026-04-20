@@ -1,0 +1,2 @@
+# -Hosny-Hassan-AI-Model-with-ResNet-to-Distinguish-Between-Healthy-and-Tumorized-Lung-CTs
+     I have built an AI model that you can use to predict whether the CT is Healthy or Tumorized. I have used ResNet instead of normal Deep NN to enhance the accuracy, due to the lack of data. An important disclaimer if  the patient has an inflammation , the model will predict it as a tumor. So patient history must be revised
